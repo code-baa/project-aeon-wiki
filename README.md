@@ -1,1 +1,1 @@
-www.code-baa.github.io/project-aeon-wiki/
+www.code-baa.github.io/project-aeon-wiki/index.html
