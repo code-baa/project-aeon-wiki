@@ -3,11 +3,11 @@
 
 <!-- instead of overview pages, we could just make this a drop down with individual .md's linked, like below -->
 [Overview](index.md)
-[Gameplay & Systems](content/gameplay-systems_overview.md)
-[Project Management](content/project-management_overview.md)
-[Visual Art](content/visual-art_overview.md)
-[Audio](content/audio_overview.md)
-[Lore](content/lore_overview.md)
+[Gameplay & Systems](#content/gameplay-systems_overview.md)
+[Project Management](#content/project-management_overview.md)
+[Visual Art](#content/visual-art_overview.md)
+[Audio](#content/audio_overview.md)
+[Lore](#content/lore_overview.md)
 
 
 [Menu Item 1]()
